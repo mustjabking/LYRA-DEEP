@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://news-database-homepage-except.trycloudflare.com](https://news-database-homepage-except.trycloudflare.com)
+**Active URL:** [https://related-carlo-chuck-criteria.trycloudflare.com](https://related-carlo-chuck-criteria.trycloudflare.com)
 
-_Last Updated: Sat Oct 17 21:58:35 UTC 2026_
+_Last Updated: Sun Oct 18 02:54:17 UTC 2026_
