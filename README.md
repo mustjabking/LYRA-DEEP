@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://trance-specialized-mysql-enters.trycloudflare.com](https://trance-specialized-mysql-enters.trycloudflare.com)
+**Active URL:** [https://deal-compare-barcelona-spring.trycloudflare.com](https://deal-compare-barcelona-spring.trycloudflare.com)
 
-_Last Updated: Sat Nov  7 23:24:55 UTC 2026_
+_Last Updated: Sun Nov  8 04:15:43 UTC 2026_
